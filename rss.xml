@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[E-Health Tergooi]]></title>
+        <description><![CDATA[E-Health Tergooi]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 18 May 2016 17:56:54 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/01c63d39-e02c-45bc-8570-2ee7f88ac568.jpg">]]></description>
+            <link>undefined26c0db16-8f08-4732-be5f-963d20e49311/index.html</link>
+            <guid isPermaLink="false">26c0db16-8f08-4732-be5f-963d20e49311</guid>
+            <pubDate>Wed, 18 May 2016 17:56:11 GMT</pubDate>
+        </item>
+    </channel>
+</rss>

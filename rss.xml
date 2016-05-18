@@ -4,8 +4,15 @@
         <description><![CDATA[E-Health Tergooi]]></description>
         <link>https://thegrid.ai/e-health-tergooi/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 18 May 2016 19:08:28 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 May 2016 19:33:19 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/e-health-tergooi/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>“Maybe the only significant difference between a really smart simulation and a human being was the noise they made when you punched them.”</p>]]></description>
+            <link>https://thegrid.ai/e-health-tergooi/maybe-the-only-significant-difference-between-a-really-smar/index.html</link>
+            <guid isPermaLink="false">ad67a051-f23e-4b8b-a56b-ca4cf10e235e</guid>
+            <pubDate>Wed, 18 May 2016 19:33:13 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/bc90c157-0f00-4a90-a471-1392fc21095a.jpg">]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/e-health-tergooi/9ca4d0cf-0a23-4e70-9304-a131078251db/index.html</link>
             <guid isPermaLink="false">9ca4d0cf-0a23-4e70-9304-a131078251db</guid>
             <pubDate>Wed, 18 May 2016 18:08:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/21b1bc56-640e-4dbf-9b20-d5a490a51890.jpg">]]></description>
-            <link>https://thegrid.ai/e-health-tergooi/82bac29b-0748-427c-b5fd-a7c4803fd506/index.html</link>
-            <guid isPermaLink="false">82bac29b-0748-427c-b5fd-a7c4803fd506</guid>
-            <pubDate>Wed, 18 May 2016 18:08:04 GMT</pubDate>
         </item>
     </channel>
 </rss>

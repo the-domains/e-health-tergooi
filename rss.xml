@@ -4,8 +4,15 @@
         <description><![CDATA[E-Health Tergooi]]></description>
         <link>https://thegrid.ai/e-health-tergooi/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 19 May 2016 09:49:30 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 May 2016 12:43:13 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/e-health-tergooi/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6fadba16-e5ad-443c-a263-df8dc13fd278.png">]]></description>
+            <link>https://thegrid.ai/e-health-tergooi/d9737ea9-0186-4fa0-9462-c89c90d2e9ba/index.html</link>
+            <guid isPermaLink="false">d9737ea9-0186-4fa0-9462-c89c90d2e9ba</guid>
+            <pubDate>Thu, 19 May 2016 12:42:23 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/62843fff-5752-4483-a46c-0dfe9d471665.jpg">]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/e-health-tergooi/b9a39629-4683-4f3a-b14b-37bd28c8e069/index.html</link>
             <guid isPermaLink="false">b9a39629-4683-4f3a-b14b-37bd28c8e069</guid>
             <pubDate>Wed, 18 May 2016 19:06:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/77d1bba1-17c2-439a-8ada-325746cd058f.png">]]></description>
-            <link>https://thegrid.ai/e-health-tergooi/987f0145-2ad1-4778-ab5a-b41694636202/index.html</link>
-            <guid isPermaLink="false">987f0145-2ad1-4778-ab5a-b41694636202</guid>
-            <pubDate>Wed, 18 May 2016 18:50:13 GMT</pubDate>
         </item>
     </channel>
 </rss>
